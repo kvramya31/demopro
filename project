@@ -1,2 +1,4 @@
 hii 
 create a new project file
+direct downloading changes in your local repo using git pull command
+it is not downloading changes just notifing usieng command  before git fetch and after git merge command 
